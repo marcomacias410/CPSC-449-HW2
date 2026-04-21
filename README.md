@@ -160,10 +160,3 @@ The USER account can create books, but it cannot delete books.
 ### 4. DELETE as USER - 403 Forbidden
 
 ![DELETE as USER](./images/delete-book-user.png)
-
-## Key Files Modified
-
-- `src/main/java/com/example/bookstore_mongodb/controller/BookController.java`
-- `src/main/java/com/example/bookstore_mongodb/service/BookService.java`
-- `src/main/java/com/example/bookstore_mongodb/config/SecurityConfig.java`
-
